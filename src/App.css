@@ -1,4 +1,8 @@
 .App {
   text-align: center;
   display: flex;
+  flex-direction: column;
+  gap: 25px;
+  background-color: rgba(173, 193, 228, 0.904);
+  min-height: 100vh;
 }
